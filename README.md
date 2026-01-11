@@ -3,9 +3,9 @@
 
 **`Desenvolvedor front-end`**
 
-Sou Gabriel de Jesus Pereira Lobão, tenho atualmente 18 anos (2026), nascido e criado em Salvador, Bahia. conclui o ensino médio com a integração de um curso técnico em manutenção e suporte a informática. Concluí o curso oferecido pela UFBA em parceria com  ===  em 2024 (CapaciTIC- Desenvolvedor Web).
+Sou Gabriel de Jesus Pereira Lobão, tenho atualmente 18 anos (2026), nascido e criado em Salvador, Bahia. conclui o ensino médio com a integração de um curso técnico em manutenção e suporte a informática. Concluí o curso: CapaciTIC- Desenvolvedor Web em 2024.
 
-### 🤖 Linguagens e Tecnologias
+### 🖥️ Estudando : Linguagens 👇
 
 <img 
     align="left" 
@@ -46,28 +46,14 @@ Sou Gabriel de Jesus Pereira Lobão, tenho atualmente 18 anos (2026), nascido e 
 
 ### 📊 FERRAMENTAS
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/VsCode-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=blue)
+![PyCharm](https://img.shields.io/badge/Pycharm-F7DF1E?style=for-the-badge&logo=nodedotjs&logoColor=black)
 
-
-<p>
-  
-  <img src="cdn.jsdelivr.net" width="40" title="VS Code" />
-
-<p/>
+### 🤖 Projeto(s)
+![ORIGEM,AVANÇOS E IMPACTOS PREJUDICIAIS DO USO DA IA EM EXCESSO NO RAMO ESCOLAR](https://img.shields.io/badge/ORIGEM,AVANÇOS_E_IMPACTOS_PREJUDICIAIS_DO_USO_DA_IA_EMEXCESSO_NO_RAMO_ESCOLAR-0000FF?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
   <br/>
   <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
