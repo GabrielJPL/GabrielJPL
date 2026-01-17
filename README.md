@@ -52,7 +52,7 @@ Sou Gabriel de Jesus Pereira Lobão, tenho atualmente 18 anos (2026), nascido e 
 
 ### 🤖 Projeto(s)
 ![ORIGEM,AVANÇOS E IMPACTOS PREJUDICIAIS DO USO DA IA EM EXCESSO NO AMBIENTE ESCOLAR](https://img.shields.io/badge/ORIGEM,AVANÇOS_E_IMPACTOS_PREJUDICIAIS_DO_USO_DA_IA_EM_EXCESSO_NO_AMBIENTE_ESCOLAR-00FFFF?style=for-the-badge&logo)  
-![Breve](https://img.shields.io/badge/Mais_Em_Breve-7FFFD4?style=for-the-badge&logo)
+![Filtragem e Personalização de Anúncios](https://img.shields.io/badge/Filtragem_e_Personalização_de_Anúncios-7FFFD4?style=for-the-badge&logo)
 
   <br/>
   <br/>
