@@ -3,7 +3,7 @@
 
 **`Desenvolvedor front-end`**
 
-Me chamo Gabriel de Jesus Pereira Lobão, tenho atualmente 18 anos (2026), nascido e criado em Salvador, Bahia. Conclui o ensino médio com a integração de um curso técnico em manutenção e suporte a informática em 2025. Concluí o curso: CapaciTIC- Desenvolvedor Web em 2024.
+Meu nome é Gabriel de Jesus Pereira Lobão, tenho atualmente 18 anos (2026), nascido e criado em Salvador, Bahia. Conclui o ensino médio com a integração de um curso técnico em manutenção e suporte a informática em 2025. Concluí o curso: CapaciTIC- Desenvolvedor Web em 2024.
 
 ### 🖥️ Estudando : Linguagens 👇
 
