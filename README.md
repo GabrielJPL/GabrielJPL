@@ -7,52 +7,19 @@ Meu nome é Gabriel de Jesus Pereira Lobão, tenho atualmente 18 anos (2026), na
 
 ### 🖥️ Estudando : Linguagens 👇
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+![JavaScript](https://img.shields.io/badge/Java_Script-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
+![Html 5](https://img.shields.io/badge/Html_5-4B0082?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-FF4500?style=for-the-badge&logo=css&logoColor=white)
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
 
 ### 📊 FERRAMENTAS
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/Pycharm-F7DF1E?style=for-the-badge&logo=pycharm&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🤖 Projeto(s)
-![ORIGEM,AVANÇOS E IMPACTOS PREJUDICIAIS DO USO DA IA EM EXCESSO NO AMBIENTE ESCOLAR](https://img.shields.io/badge/ORIGEM,AVANÇOS_E_IMPACTOS_PREJUDICIAIS_DO_USO_DA_IA_EM_EXCESSO_NO_AMBIENTE_ESCOLAR-00FFFF?style=for-the-badge&logo)  
-![Filtragem e Personalização de Anúncios](https://img.shields.io/badge/Filtragem_e_Personalização_de_Anúncios:_Em_Desenvolvimento-7FFFD4?style=for-the-badge&logo)
-
-  <br/>
-  <br/>
+![ORIGEM,AVANÇOS E IMPACTOS PREJUDICIAIS DO USO DA IA EM EXCESSO NO AMBIENTE ESCOLAR](https://img.shields.io/badge/ORIGEM,AVANÇOS_E_IMPACTOS_PREJUDICIAIS_DO_USO_DA_IA_EM_EXCESSO_NO_AMBIENTE_ESCOLAR-00FFFF4B0082?style=for-the-badge&logo)  
+![Filtragem e Personalização de Anúncios](https://img.shields.io/badge/Filtragem_e_Personalização_de_Anúncios:_Em_Desenvolvimento-A020F0?style=for-the-badge&logo)
