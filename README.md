@@ -6,7 +6,7 @@
 Meu nome é Gabriel de Jesus Pereira Lobão, tenho atualmente 18 anos (2026), nascido e criado em Salvador, Bahia. Conclui o ensino médio com a integração de um curso técnico em manutenção e suporte a informática em 2025, atualmente estudando para no futuro engressar no mercado de trabalho como front-end.
 
 ## Detalhes
-O projeto "Origem,avanços e impactos prejudiciais do uso da IA em excesso no ambiente escolar" é 100% Digital e sem nenhuma interação com programação. Criado para ser de base e produto final na conclusão do curso integrado ao ensino médio, sendo o TCC.
+O projeto "Origem, avanços e impactos prejudiciais do uso da IA em excesso no ambiente escolar" é 100% Digital e sem nenhuma interação com programação. Criado para ser de base e produto final na conclusão do curso integrado ao ensino médio, sendo o TCC.
 
 O projeto "Filtragem e Personalização de Anúncios" Ainda em fase de desenvolvimento e pesquisas caminha para ser uma extensão que tem como objetivo filtrar anúncios e deixar a plataforma/usuário seguros e com melhor fluxo.
 ### 🖥️ Estudando : Linguagens 👇
@@ -25,5 +25,5 @@ O projeto "Filtragem e Personalização de Anúncios" Ainda em fase de desenvolv
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🤖 Projeto(s)
-![ORIGEM,AVANÇOS E IMPACTOS PREJUDICIAIS DO USO DA IA EM EXCESSO NO AMBIENTE ESCOLAR](https://img.shields.io/badge/ORIGEM,AVANÇOS_E_IMPACTOS_PREJUDICIAIS_DO_USO_DA_IA_EM_EXCESSO_NO_AMBIENTE_ESCOLAR-00FFFF4B0082?style=for-the-badge&logo)  
+![ORIGEM,_AVANÇOS E IMPACTOS PREJUDICIAIS DO USO DA IA EM EXCESSO NO AMBIENTE ESCOLAR](https://img.shields.io/badge/ORIGEM,_AVANÇOS_E_IMPACTOS_PREJUDICIAIS_DO_USO_DA_IA_EM_EXCESSO_NO_AMBIENTE_ESCOLAR-00FFFF4B0082?style=for-the-badge&logo)  
 ![Filtragem e Personalização de Anúncios](https://img.shields.io/badge/Filtragem_e_Personalização_de_Anúncios:_Em_Desenvolvimento-A020F0?style=for-the-badge&logo)
