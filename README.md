@@ -1,11 +1,14 @@
 ##  Gabriel de Jesus Pereira Lobão
 
 
-**Desenvolvedor front-end**
+**Desenvolvedor front-end:**
 
 Meu nome é Gabriel de Jesus Pereira Lobão, tenho atualmente 18 anos (2026), nascido e criado em Salvador, Bahia. Conclui o ensino médio com a integração de um curso técnico em manutenção e suporte a informática em 2025, atualmente estudando para no futuro engressar no mercado de trabalho como front-end.
 
-## Detalhes
+## Detalhes    
+
+**Projetos:**  
+
 O projeto "Origem, avanços e impactos prejudiciais do uso da IA em excesso no ambiente escolar" é 100% Digital e sem nenhuma interação com programação. Criado para ser de base e produto final na conclusão do curso integrado ao ensino médio, sendo o TCC.
 
 O projeto "Filtragem e Personalização de Anúncios" Ainda em fase de desenvolvimento e pesquisas caminha para ser uma extensão que tem como objetivo filtrar anúncios e deixar a plataforma/usuário seguros e com melhor fluxo.
