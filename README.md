@@ -27,3 +27,5 @@ O projeto "Filtragem e Personalização de Anúncios" Ainda em fase de desenvolv
 
 ## 🤖 Projeto(s)
 ![ORIGEM,_AVANÇOS E IMPACTOS PREJUDICIAIS DO USO DA IA EM EXCESSO NO AMBIENTE ESCOLAR](https://img.shields.io/badge/ORIGEM,_AVANÇOS_E_IMPACTOS_PREJUDICIAIS_DO_USO_DA_IA_EM_EXCESSO_NO_AMBIENTE_ESCOLAR-00FFFF4B0082?style=for-the-badge&logo)  
+![Login e criação de conta (Teste)](https://img.shields.io/badge/Login_e_criação_de_conta_(Teste)-A020F0?style=for-the-badge&logo&logoColor=white)  
+![Sistemas de Classes em Java Script](https://img.shields.io/badge/Sistemas_de_Classes_em_Java_Script-FFD700?style=for-the-badge&logo&logoColor=white)
