@@ -10,18 +10,20 @@ Meu nome é Gabriel de Jesus Pereira Lobão, tenho atualmente 18 anos (2026), na
 
 O projeto "Origem, avanços e impactos prejudiciais do uso da IA em excesso no ambiente escolar" é 100% Digital e sem nenhuma interação com programação. Criado para ser de base e produto final na conclusão do curso integrado ao ensino médio, sendo o TCC.
 
-O projeto "Filtragem e Personalização de Anúncios" Ainda em fase de desenvolvimento e pesquisas caminha para ser uma extensão que tem como objetivo filtrar anúncios e deixar a plataforma/usuário seguros e com melhor fluxo.
+O projeto Login e criação de conta (teste) é um projeto de estudo pessoal com a finalidade de adquirir experiência individual com projetos envolvendo o front-end.
+
+O projeto Sistemas de Classes em Java Script segue a premissa de ser apenas para estudos, mas não quer dizer que sejam sistemas avançados, são apenas esboços e práticas.
+
+Todos os projetos que listei e um pouco mais estarão nos meus repositorios, com uma lisença autoral, fique a vontade para ver ou para adquirir ajuda nos estudos.
 ## 🖥️ Estudando : Linguagens 👇
 
 ![JavaScript](https://img.shields.io/badge/Java_Script-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
 ![Html 5](https://img.shields.io/badge/Html_5-4B0082?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-FF4500?style=for-the-badge&logo=css&logoColor=white)
 
 ## 📊 Ferramentas
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PyCharm](https://img.shields.io/badge/Pycharm-F7DF1E?style=for-the-badge&logo=pycharm&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
