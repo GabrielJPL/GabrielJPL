@@ -22,10 +22,11 @@ Todos os projetos que listei e um pouco mais estarão nos meus repositorios, com
 ![CSS](https://img.shields.io/badge/CSS-FF4500?style=for-the-badge&logo=css&logoColor=white)
 
 ## 📊 Ferramentas
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1C1C1C?style=for-the-badge&logo=expo&logoColor=White)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node_js-FFD700?style=for-the-badge&logo=node.js&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-F0FFFF?style=for-the-badge&logo=github&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual_studio_code-0000FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 🤖 Projeto(s)
 ![ORIGEM,_AVANÇOS E IMPACTOS PREJUDICIAIS DO USO DA IA EM EXCESSO NO AMBIENTE ESCOLAR](https://img.shields.io/badge/ORIGEM,_AVANÇOS_E_IMPACTOS_PREJUDICIAIS_DO_USO_DA_IA_EM_EXCESSO_NO_AMBIENTE_ESCOLAR-00FFFF4B0082?style=for-the-badge&logo)  
