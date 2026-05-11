@@ -26,6 +26,7 @@ Todos os projetos que listei e um pouco mais estarão nos meus repositorios, com
 ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node_js-FFD700?style=for-the-badge&logo=node.js&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-F0FFFF?style=for-the-badge&logo=github&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_studio_code-0000FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 🤖 Projeto(s)
