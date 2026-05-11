@@ -15,7 +15,7 @@ O projeto Login e criação de conta (teste) é um projeto de estudo pessoal com
 O projeto Sistemas de Classes em Java Script segue a premissa de ser apenas para estudos, mas não quer dizer que sejam sistemas avançados, são apenas esboços e práticas.
 
 Todos os projetos que listei e um pouco mais estarão nos meus repositorios, com uma lisença autoral, fique a vontade para ver ou para adquirir ajuda nos estudos.
-## 🖥️ Estudando : Linguagens 👇
+## 🖥️ Estudando : Linguagens
 
 ![JavaScript](https://img.shields.io/badge/Java_Script-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 ![Html 5](https://img.shields.io/badge/Html_5-4B0082?style=for-the-badge&logo=html5&logoColor=white)
