@@ -2,7 +2,7 @@
 
 **Desenvolvedor front-end:**
 
-Meu nome é Gabriel de Jesus Pereira Lobão, tenho atualmente 18 anos (2026), nascido e criado em Salvador, Bahia. Conclui o ensino médio com a integração de um curso técnico em manutenção e suporte a informática em 2025, atualmente estudando para no futuro engressar no mercado de trabalho como front-end.
+Meu nome é Gabriel Lobão, tenho atualmente 18 anos (2026), nascido e criado em Salvador, Bahia. Conclui o ensino médio com a integração de um curso técnico em manutenção e suporte a informática em 2025, atualmente estudando para no futuro engressar no mercado de trabalho como front-end.
 
 ## Detalhes    
 
