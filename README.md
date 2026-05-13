@@ -4,7 +4,7 @@
 
 Meu nome é Gabriel Lobão, tenho atualmente 18 anos (2026), nascido e criado em Salvador, Bahia. Concluí o ensino médio com a integração de um curso técnico em manutenção e suporte a informática em 2025, atualmente estudando para no futuro ingressar no mercado de trabalho como front-end.
 
-**Front-end Developer:** 
+**Front-end Developer: **   
 My name is Gabriel Lobão, I am currently 18 years old (2026), born and raised in Salvador, Bahia. I completed high school integrated with a technical course in computer maintenance and support in 2025, and I am currently studying to enter the job market as a front-end developer in the future.
 
 ## Detalhes // Details
