@@ -23,7 +23,6 @@ O projeto Sistemas de Classes em Java Script segue a premissa de ser apenas para
 Todos os projetos que listei e um pouco mais estarão nos meus repositorios, com uma lisença autoral, fique a vontade para ver ou para adquirir ajuda nos estudos.
 ## 🖥️📔 Estudando : Linguagens // Currently Studying: Languages
 
-![PHP](https://img.shields.io/badge/PHP-A020F0?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Java_Script-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 ![Html 5](https://img.shields.io/badge/Html_5-FF4500?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/CSS_3-4169E1?style=for-the-badge&logo=css&logoColor=white)
