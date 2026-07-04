@@ -38,4 +38,3 @@ O projeto "Origem, avanços e impactos prejudiciais do uso da IA em excesso no a
 ## Outro(s) // Other(s)
 ![LinKedIn](www.linkedin.com/in/gabriel-lobão-3251143aa)
 
-
