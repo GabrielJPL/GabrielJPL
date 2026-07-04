@@ -8,19 +8,13 @@ Meu nome é Gabriel Lobão, tenho atualmente 18 anos (2026), nascido e criado em
 
 My name is Gabriel Lobão, I am currently 18 years old (2026), born and raised in Salvador, Bahia. I completed high school integrated with a technical course in computer maintenance and support in 2025, and I am currently studying to enter the job market as a front-end developer in the future.
 
-## Detalhes // Details
-**Projetos // Projects:**
-
-O projeto "Origem, avanços e impactos prejudiciais do uso da IA em excesso no ambiente escolar" é 100% Digital e sem nenhuma interação com programação. Criado para ser de base e produto final na conclusão do curso integrado ao ensino médio, sendo o TCC.
-##### The project "Origin, advancements, and harmful impacts of excessive AI use in the school environment" is 100% digital with no programming involved. It was created to serve as the foundation and final product for my high school graduation thesis (TCC).
-
-## 🖥️📔 Estudando : Linguagens // Currently Studying: Languages
+## Linguagens [Languages]:
 
 ![JavaScript](https://img.shields.io/badge/Java_Script-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 ![Html 5](https://img.shields.io/badge/Html_5-FF4500?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/CSS_3-4169E1?style=for-the-badge&logo=css&logoColor=white)
 
-## 🛠️🪛 Ferramentas //  Tools
+## Ferramentas [Tools]:
 ![Expo](https://img.shields.io/badge/Expo-white?style=for-the-badge&logo=expo&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node_js-FFD700?style=for-the-badge&logo=node.js&logoColor=black)
@@ -29,18 +23,12 @@ O projeto "Origem, avanços e impactos prejudiciais do uso da IA em excesso no a
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-836FFF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-## 📊📈 Projeto(s) // Project(s)
-![ORIGEM,_AVANÇOS E IMPACTOS PREJUDICIAIS DO USO DA IA EM EXCESSO NO AMBIENTE ESCOLAR](https://img.shields.io/badge/ORIGEM,_AVANÇOS_E_IMPACTOS_PREJUDICIAIS_DO_USO_DA_IA_EM_EXCESSO_NO_AMBIENTE_ESCOLAR-00FFFF4B0082?style=for-the-badge&logo)  
+## 📈 Projetos [Projects]:
 ![Sistemas de Classes em Java Script](https://img.shields.io/badge/Sistemas_de_Classes_em_Java_Script-FFD700?style=for-the-badge&logo&logoColor=white)  
 ![Login e criação de conta (Teste)](https://img.shields.io/badge/Login_e_criação_de_conta_(Teste)-A020F0?style=for-the-badge&logo&logoColor=white)   
 ![Trial Site](https://img.shields.io/badge/Trial_Site-4169E1?style=for-the-badge&logo&logoColor=white)
 
-## Stats:
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielJPL&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> 
-</div>
-
+## Redes Sociais [Social media]:
 <div data-importer="socials" align="left">
   <a href="gabrieljesus.lobao@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -53,5 +41,10 @@ O projeto "Origem, avanços e impactos prejudiciais do uso da IA em excesso no a
   </a>
 </div>
 
-###
+## Status [Satats]:
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielJPL&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" align="left" height="350" alt="streak graph"  /> 
+</div>
+
 
