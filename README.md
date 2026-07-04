@@ -36,4 +36,6 @@ O projeto "Origem, avanços e impactos prejudiciais do uso da IA em excesso no a
 ![Trial Site](https://img.shields.io/badge/Trial_Site-4169E1?style=for-the-badge&logo&logoColor=white)
 
 ## Outro(s) // Other(s)
-LinKedIn link: www.linkedin.com/in/gabriel-lobão-3251143aa
+![LinKedIn](www.linkedin.com/in/gabriel-lobão-3251143aa)
+
+
