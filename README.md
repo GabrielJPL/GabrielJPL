@@ -23,7 +23,7 @@ My name is Gabriel Lobão, I am currently 18 years old (2026), born and raised i
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-836FFF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-## 📈 Projetos [Projects]:
+## Projetos [Projects]:
 ![Sistemas de Classes em Java Script](https://img.shields.io/badge/Sistemas_de_Classes_em_Java_Script-FFD700?style=for-the-badge&logo&logoColor=white)  
 ![Login e criação de conta (Teste)](https://img.shields.io/badge/Login_e_criação_de_conta_(Teste)-A020F0?style=for-the-badge&logo&logoColor=white)   
 ![Trial Site](https://img.shields.io/badge/Trial_Site-4169E1?style=for-the-badge&logo&logoColor=white)
