@@ -33,7 +33,7 @@ My name is Gabriel Lobão, I am currently 18 years old (2026), born and raised i
   <a href="gabrieljesus.lobao@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://discord.gg/cPzKzPjG4" target="_blank">
+  <a href="[https://discord.gg/cPzKzPjG4](https://discord.gg/v4PXqgjbm)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="www.linkedin.com/in/gabriel-lobão-3251143aa" target="_blank">
