@@ -17,16 +17,18 @@ My name is Gabriel Lobão, I am currently 18 years old (2026), born and raised i
 ## Ferramentas [Tools]:
 ![Expo](https://img.shields.io/badge/Expo-white?style=for-the-badge&logo=expo&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node_js-FFD700?style=for-the-badge&logo=node.js&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node_js-FFD700?style=for-the-badge&logo=node.js&logoColor=black)  
 ![GitHub](https://img.shields.io/badge/GitHub-F0FFFF?style=for-the-badge&logo=github&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-DC143C?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-836FFF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 ## Projetos [Projects]:
-![Sistemas de Classes em Java Script](https://img.shields.io/badge/Sistemas_de_Classes_em_Java_Script-FFD700?style=for-the-badge&logo&logoColor=white)  
+
+![Trial Site](https://img.shields.io/badge/Trial_Site-4169E1?style=for-the-badge&logo&logoColor=white)  
 ![Login e criação de conta (Teste)](https://img.shields.io/badge/Login_e_criação_de_conta_(Teste)-A020F0?style=for-the-badge&logo&logoColor=white)   
-![Trial Site](https://img.shields.io/badge/Trial_Site-4169E1?style=for-the-badge&logo&logoColor=white)
+![Sistemas de Classes em Java Script](https://img.shields.io/badge/Sistemas_de_Classes_em_Java_Script-FFD700?style=for-the-badge&logo&logoColor=white)  
+
 
 ## Redes Sociais [Social media]:
 <div data-importer="socials" align="left">
