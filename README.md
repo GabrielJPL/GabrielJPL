@@ -38,13 +38,12 @@ My name is Gabriel Lobão, I am currently 18 years old (2026), born and raised i
   <a href="https://www.linkedin.com/in/gabriel-lobão-3251143aa">  
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>    
-  
 </div>
 
 ## Status [Satats]:
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielJPL&locale=en&mode=daily&theme=Radical&hide_border=false&border_radius=5" align="left" height="350" alt="streak graph"  /> 
+  <img src="https://streak-stats.demolab.com?user=GabrielJPL&locale=en&mode=daily&theme=Radical&hide_border=false&border_radius=5" align="center" height="350" alt="streak graph"  /> 
 </div>
 
 
