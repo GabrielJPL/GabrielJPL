@@ -42,7 +42,7 @@ My name is Gabriel Lobão, I am currently 18 years old (2026), born and raised i
 
 ## Status [Satats]:
 
-<div data-importer="stats" align="center">
+<div data-importer="stats" align="left">
   <img src="https://streak-stats.demolab.com?user=GabrielJPL&locale=pt_BR&mode=daily&theme=Radical&hide_border=false&border_radius=5" align="center" height="350" alt="streak graph"  /> 
 </div>
 
